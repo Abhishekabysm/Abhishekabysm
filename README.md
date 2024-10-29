@@ -1,5 +1,3 @@
----
-
 ## Hi there 👋 I’m Abhishek Kumar
 
 Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineering College, driven by a passion for web development and immersive 3D learning experiences. I love crafting websites and applications that blend functionality with great user experiences.
@@ -21,7 +19,5 @@ Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineeri
 
 ### ⚡ Fun Fact
 When I’m not coding, you’ll find me exploring new music on Suno AI, diving into new technologies, or challenging myself with logic puzzles.
-
----
 
 Thanks for stopping by! 😊 Feel free to check out my projects, and don’t hesitate to connect if you want to collaborate or chat about tech!
