@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineeri
 
 ### 🌟 About Me
 
-- 🔭 **Currently working on:** [LumiVerse](#) – my final year project, an educational website where users can explore a variety of topics, with both free and paid learning options to suit different needs.
+- 🔭 **Currently working on:** [LumiVerse](https://welcomepage-beige.vercel.app/) – my final year project, an educational website where users can explore a variety of topics, with both free and paid learning options to suit different needs.
 - 🌱 **Currently learning:** Three.js, advanced Next.js, and refining my front-end animation skills to bring ideas to life in more engaging ways.
 - 👯 **Looking to collaborate on:** Projects focused on web development, 3D animations, and educational technology.
 - 💬 **Ask me about:** React, Next.js, Firebase, and making websites come alive with animations!
