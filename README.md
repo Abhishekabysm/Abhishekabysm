@@ -12,9 +12,9 @@ Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineeri
 
 ### 🛠️ My Projects
 
-- **[NoteIO](#):** A fully responsive note-taking site built with Next.js, designed to work across all devices—even Jio Phone 2! It’s my go-to for organizing ideas.
-- **[Expense Tracker](#):** A React-based finance tracker with a 5-day weather forecast feature, offering real-time insights to manage personal expenses.
-- **[SnapWalls](#):** A wallpaper website with user authentication via Firebase, allowing users to save their favorite wallpapers across multiple devices.
+- **[NoteID](https://noteid.vercel.app/):** A fully responsive note-taking site built with Next.js, designed to work across all devices—even Jio Phone 2! It’s my go-to for organizing ideas.
+- **[Expense Tracker](https://trackyourspend.vercel.app/):** A React-based finance tracker with a 5-day weather forecast feature, offering real-time insights to manage personal expenses.
+- **[SnapWalls](https://snapwalls.vercel.app/):** A wallpaper website with user authentication via Firebase, allowing users to save their favorite wallpapers across multiple devices.
 - **Weather App:** A Weather website built in Html, CSS, JavaScript, combining fun and functionality with an educational twist.
 
 ### ⚡ Fun Fact
