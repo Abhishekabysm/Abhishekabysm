@@ -10,12 +10,13 @@ Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineeri
 - 💬 **Ask me about:** React, Next.js, Firebase, and making websites come alive with animations!
 - 📫 **How to reach me:** [Email](mailto:abhishekanish02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishekkumar-in/) | [Portfolio](https://abhishek-portfolio-theta.vercel.app/)
 
-### 🛠️ My Projects
 
-- **[NoteID](https://noteid.vercel.app/):** A fully responsive note-taking site built with Next.js, designed to work across all devices—even Jio Phone 2! It’s my go-to for organizing ideas.
-- **[Expense Tracker](https://trackyourspend.vercel.app/):** A React-based finance tracker with a 5-day weather forecast feature, offering real-time insights to manage personal expenses.
+### 🛠️ My Projects  
+
+- **[Portfolio Website](https://abhishek-portfolio-theta.vercel.app/):** Showcases my key projects and achievements, reflecting my journey as a developer and my skills in web technologies.  
+- **[NoteID](https://noteid.vercel.app/):** A fully responsive note-taking site built with Next.js, designed to work across all devices—even Jio Phone 2! It’s my go-to for organizing ideas.  
+- **[Expense Tracker](https://trackyourspend.vercel.app/):** A React-based finance tracker with a 5-day weather forecast feature, offering real-time insights to manage personal expenses.  
 - **[SnapWalls](https://snapwalls.vercel.app/):** A wallpaper website with user authentication via Firebase, allowing users to save their favorite wallpapers across multiple devices.
-- **Weather App:** A Weather website built in Html, CSS, JavaScript, combining fun and functionality with an educational twist.
 
 ### ⚡ Fun Fact
 When I’m not coding, you’ll find me exploring new music on Suno AI, diving into new technologies, or challenging myself with logic puzzles.
