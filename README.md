@@ -1,7 +1,3 @@
-Here’s an updated version of your GitHub profile:
-
----
-
 ## Hi there 👋 I’m Abhishek Kumar
 
 Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineering College, driven by a passion for web development and immersive 3D learning experiences. I love crafting websites and applications that blend functionality with great user experiences.
