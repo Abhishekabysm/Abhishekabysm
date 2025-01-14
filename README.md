@@ -1,3 +1,7 @@
+Here’s an updated version of your GitHub profile:
+
+---
+
 ## Hi there 👋 I’m Abhishek Kumar
 
 Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineering College, driven by a passion for web development and immersive 3D learning experiences. I love crafting websites and applications that blend functionality with great user experiences.
@@ -10,7 +14,6 @@ Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineeri
 - 💬 **Ask me about:** React, Next.js, Firebase, and making websites come alive with animations!
 - 📫 **How to reach me:** [Email](mailto:abhishekanish02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishekkumar-in/) | [Portfolio](https://abhishek-portfolio-theta.vercel.app/)
 
-
 ### 🛠️ My Projects  
 
 - **[Portfolio Website](https://abhishek-portfolio-theta.vercel.app/):** Showcases my key projects and achievements, reflecting my journey as a developer and my skills in web technologies.  
@@ -18,7 +21,13 @@ Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineeri
 - **[Expense Tracker](https://trackyourspend.vercel.app/):** A React-based finance tracker with a 5-day weather forecast feature, offering real-time insights to manage personal expenses.  
 - **[SnapWalls](https://snapwalls.vercel.app/):** A wallpaper website with user authentication via Firebase, allowing users to save their favorite wallpapers across multiple devices.
 
+### 🚀 **Internship Projects at NextTec**
+
+- **[NextTec Projects Repository](https://github.com/Abhishekabysm/NextTecWorks):** Check out all the projects I’m working on during my internship at NextTec.
+
 ### ⚡ Fun Fact
 When I’m not coding, you’ll find me exploring new music on Suno AI, diving into new technologies, or challenging myself with logic puzzles.
 
 Thanks for stopping by! 😊 Feel free to check out my projects, and don’t hesitate to connect if you want to collaborate or chat about tech!
+
+---
