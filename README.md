@@ -25,5 +25,3 @@ Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineeri
 When I’m not coding, you’ll find me exploring new music on Suno AI, diving into new technologies, or challenging myself with logic puzzles.
 
 Thanks for stopping by! 😊 Feel free to check out my projects, and don’t hesitate to connect if you want to collaborate or chat about tech!
-
----
