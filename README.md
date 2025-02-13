@@ -1,27 +1,37 @@
-## Hi there 👋 I’m Abhishek Kumar
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h3 align="center">Full-Stack Developer specializing in Next.js, React.js, Tailwind, MongoDB, Python, REST APIs, and Firebase</h3>
 
-Welcome to my GitHub! I'm a final-year Computer Science student at IMS Engineering College, driven by a passion for web development and immersive 3D learning experiences. I love crafting websites and applications that blend functionality with great user experiences.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekabysm&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekabysm" /> </p>
 
-### 🌟 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekabysm" alt="abhishekabysm" /></a> </p>
 
-- 🔭 **Currently working on:** [LumiVerse](https://lumiverse.vercel.app/) – my final year project, an educational website where users can explore a variety of topics, with both free and paid learning options to suit different needs.
-- 🌱 **Currently learning:** Three.js, advanced Next.js, and refining my front-end animation skills to bring ideas to life in more engaging ways.
-- 👯 **Looking to collaborate on:** Projects focused on web development, 3D animations, and educational technology.
-- 💬 **Ask me about:** React, Next.js, Firebase, and making websites come alive with animations!
-- 📫 **How to reach me:** [Email](mailto:abhishekanish02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishekkumar-in/) | [Portfolio](https://abhishek-portfolio-theta.vercel.app/)
+- 🔭 I’m currently working on [Lumiverse](https://lumiverse.vercel.app/)
 
-### 🛠️ My Projects  
+- 🌱 I’m currently **diving deeper into advanced Next.js features, optimizing React/Tailwind front-ends, and building robust REST APIs with Python, MongoDB, and Firebase.**
 
-- **[Portfolio Website](https://abhishek-portfolio-theta.vercel.app/):** Showcases my key projects and achievements, reflecting my journey as a developer and my skills in web technologies.  
-- **[NoteID](https://noteid.vercel.app/):** A fully responsive note-taking site built with Next.js, designed to work across all devices—even Jio Phone 2! It’s my go-to for organizing ideas.  
-- **[Expense Tracker](https://trackyourspend.vercel.app/):** A React-based finance tracker with a 5-day weather forecast feature, offering real-time insights to manage personal expenses.  
-- **[SnapWalls](https://snapwalls.vercel.app/):** A wallpaper website with user authentication via Firebase, allowing users to save their favorite wallpapers across multiple devices.
+- 👯 I’m looking to collaborate on [Snapwalls](https://snapwalls.vercel.app/)
 
-### 🚀 **Internship Projects at NextTec**
+- 👨‍💻 All of my projects are available at [https://abhishek-portfolio-theta.vercel.app/](https://abhishek-portfolio-theta.vercel.app/)
 
-- **[NextTec Projects Repository](https://github.com/Abhishekabysm/NextTecWorks):** Check out all the projects I’m working on during my internship at NextTec.
+- 💰 I offer freelance **services to build modern web apps with Next.js and React!**
 
-### ⚡ Fun Fact
-When I’m not coding, you’ll find me exploring new music on Suno AI, diving into new technologies, or challenging myself with logic puzzles.
+- 📫 How to reach me **abhishekanish02@gmail.com**
 
-Thanks for stopping by! 😊 Feel free to check out my projects, and don’t hesitate to connect if you want to collaborate or chat about tech!
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Zu5736i3ctRf4WA4uUQDT2hZl5HRscHc/edit?usp=sharing&ouid=101248581418512664053&rtpof=true&sd=true](https://docs.google.com/document/d/1Zu5736i3ctRf4WA4uUQDT2hZl5HRscHc/edit?usp=sharing&ouid=101248581418512664053&rtpof=true&sd=true)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/abhishekabysm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhishekabysm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishekkumar-in?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekkumar-in?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://instagram.com/abhishekabysm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekabysm" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhishekabysm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekabysm" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekabysm&show_icons=true&locale=en&layout=compact" alt="abhishekabysm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekabysm&show_icons=true&locale=en" alt="abhishekabysm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekabysm&" alt="abhishekabysm" /></p>
