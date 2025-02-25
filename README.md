@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Snapwalls](https://snapwalls.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://abhishek-portfolio-theta.vercel.app/](https://abhishek-portfolio-theta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://abhishek-portfolio-theta.vercel.app/](https://abhishek-obj.vercel.app/)
 
 - 💰 I offer freelance **services to build modern web apps with Next.js and React!**
 
