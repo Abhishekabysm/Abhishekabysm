@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekabysm" alt="abhishekabysm" /></a> </p>
 
-- 🔭 I’m currently working on [Lumiverse](https://lumiverse.vercel.app/)
+- 🔭 I’m currently working on [Kotoba Flow - A Japanese Learning Platform](https://kotoba-flow.vercel.app/)
 
 - 🌱 I’m currently **diving deeper into advanced Next.js features, optimizing React/Tailwind front-ends, and building robust REST APIs with Python, MongoDB, and Firebase.**
 
