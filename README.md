@@ -166,16 +166,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- TROPHY SECTION -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekabysm&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- FREELANCE CTA -->
 ## 💼 Hire Me!
 
