@@ -280,4 +280,3 @@ A wallpaper discovery & download platform — open for collaboration
   
   <img src="https://img.shields.io/badge/⭐_star_my_repos_if_you_like_them-0d1117?style=flat-square" />
 </div>
-```
