@@ -56,7 +56,7 @@
 
 <!-- ABOUT -->
 
-```js
+
 // about.js
 
 const abhishek = {
@@ -67,7 +67,7 @@ const abhishek = {
     available: "Freelance projects & collaborations",
     contact: "abhishekanish02@gmail.com"
 };
-```
+
 
 <br/>
 
