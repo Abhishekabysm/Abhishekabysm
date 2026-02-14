@@ -200,18 +200,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
   
 </div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  
-  ### 🐍 Contribution Snake
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekabysm/abhishekabysm/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekabysm/abhishekabysm/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/abhishekabysm/abhishekabysm/output/github-snake.svg" />
-  </picture>
-  
-</div>
-
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
