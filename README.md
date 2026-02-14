@@ -35,7 +35,7 @@
 
 <br/>
 
-
+```python
 class Abhishek:
     def __init__(self):
         self.name = "Abhishek Kumar"
@@ -49,6 +49,7 @@ class Abhishek:
 
 me = Abhishek()
 me.say_hi()
+```
 
 <br/>
 
@@ -353,3 +354,4 @@ From **landing pages** to **full SaaS products** — I deliver quality code on t
   <img src="https://img.shields.io/badge/Made_with_❤️_by-Abhishek_Kumar-00d9ff?style=flat-square" />
   
 </div>
+```
