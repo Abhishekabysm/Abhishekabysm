@@ -205,5 +205,5 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
   <h4>⭐ If you like my work, consider giving a star to my repos! ⭐</h4>
-  <p>Made with ❤️ by <a href="https://github.com/abhishekabysm">Abhishek Kumar</a></p>
+  <p>Made with ❤️ by Abhishek Kumar </p>
 </div>
